@@ -2,7 +2,7 @@
 
 Stress Level Detection Project Code, Document and Video Tutorial 
 
-![image](https://github.com/user-attachments/assets/0330bb67-5527-47e1-93ed-813ab7e3daff)
+![Stress](https://github.com/user-attachments/assets/e8d2ed46-14e6-44ed-87d0-9a1f1bfcfc34)
 
 ## Youtube link: https://youtu.be/u9gkQmDcrpA?si=dQiKjSOvnr9VDMLo
 
