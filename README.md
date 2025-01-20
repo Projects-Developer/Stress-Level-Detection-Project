@@ -1,4 +1,4 @@
-# Stress-Level-Detection-Project
+# Stress Level Detection Project
 
 Stress Level Detection Project Code, Document and Video Tutorial 
 
